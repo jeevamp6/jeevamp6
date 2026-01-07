@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning SOC...
 - 💞️ I’m looking to collaborate on cyber security Projects...
 - 📫 How to reach me through
-- #linkedin
+- linkedin
 -    https://www.linkedin.com/in/jeeva-mp/
--                      (or)
-- #gmail
+- gmail
 -    mpjeeva23@gmail.com (or) mpjeeva78@zohomail.in 
 <!---
 jeevamp6/jeevamp6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
